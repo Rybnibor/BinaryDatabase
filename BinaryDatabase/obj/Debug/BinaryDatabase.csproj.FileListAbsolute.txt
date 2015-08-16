@@ -1,0 +1,9 @@
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BinaryDatabase\BinaryDatabase\bin\Debug\BinaryDatabase.exe.config
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BinaryDatabase\BinaryDatabase\bin\Debug\BinaryDatabase.exe
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BinaryDatabase\BinaryDatabase\bin\Debug\BinaryDatabase.pdb
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BinaryDatabase\BinaryDatabase\obj\Debug\BinaryDatabase.csprojResolveAssemblyReference.cache
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BinaryDatabase\BinaryDatabase\obj\Debug\BinaryDatabase.Form1.resources
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BinaryDatabase\BinaryDatabase\obj\Debug\BinaryDatabase.Properties.Resources.resources
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BinaryDatabase\BinaryDatabase\obj\Debug\BinaryDatabase.csproj.GenerateResource.Cache
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BinaryDatabase\BinaryDatabase\obj\Debug\BinaryDatabase.exe
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\BinaryDatabase\BinaryDatabase\obj\Debug\BinaryDatabase.pdb
